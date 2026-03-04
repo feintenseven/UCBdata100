@@ -1,0 +1,13 @@
+﻿Lec,Summary
+Lecture 2-Pandas I,"DataFrames, Series, Indices, Extracting data"
+Lecture 3-Pandas II,"Conditional Selection, Boolean Operator, Adding, Removing, and Modifying Columns, Utility Functions, Custom Sort"
+Lecture 4-Pnadas III,"Grouping, Pivot Table, Joining Tables"
+Lecture 5-Data Wrangling and EDA,"Reading Files, Variables"
+Lecture 6-Regular Expressions,"Panda str Methods, RegEx"
+Lecture 7-Visualization I,"Bar Plot, Histogram, Box Plot, Violin Plot, KDE Curve"
+Lecture 8-Visualization II,"Scatter Plot, Transformation, Visualization Theory"
+Lecture 9-Sampling,
+"Lecture 10 - Modeling, SLR",
+Lecture 14-Gradient Decent,
+Lecture 15-Gradient Decent Part two& Feature Engineering,
+"Lecture 16- Cross-Validation, Regularization",
