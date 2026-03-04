@@ -6,7 +6,7 @@ This repository contains my personal solutions to the labs, homeworks, projects,
 https://ds100.org/fa25/
 
 ## 📁 Repository Structure
-- `labs/` – Jupyter notebooks for weekly labs.
-- `homeworks/` – Homework assignments.
-- `projects/` – Course projects (e.g., mini-projects, final project).
+- `lab/` – Jupyter notebooks for weekly labs.
+- `hw/` – Homework assignments.
+- `proj/` – Course projects.
 - `notes/` – My personal notes, summaries, and key takeaways.
